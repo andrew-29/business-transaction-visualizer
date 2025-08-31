@@ -20,10 +20,6 @@ A Python-based tool for transforming trace/span records into hierarchical tree s
 git clone https://github.com/yourusername/visualizer.git
 cd visualizer
 
-# (Optional) Create and activate a virtual environment
-python3 -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-
 # Install dependencies
 pip install -r requirements.txt
 ```
@@ -111,15 +107,5 @@ tree.py             # Defines Tree class
 
 ---
 
-## Contributing
-Pull requests are welcome! Please:
-1. Fork the repo.
-2. Create a new branch.
-3. Commit changes with clear messages.
-4. Open a PR.
 
----
-
-## License
-MIT License
 
