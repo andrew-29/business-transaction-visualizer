@@ -85,7 +85,7 @@ This string can be used in Markdown or Mermaid-compatible viewers.
 ## Example: Visualizing with Mermaid
 Download a JSON representation of your business transactions
 
----
+'''
 {
     "records": [
         {
@@ -270,7 +270,7 @@ Download a JSON representation of your business transactions
         }
     ]
 }
----
+'''
 
 Place the generated Mermaid output inside a Markdown file:
 
