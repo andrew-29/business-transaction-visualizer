@@ -103,7 +103,7 @@ Download a JSON representation of your business transactions
     ...
   ]
 }
-
+```
 
 Place the generated Mermaid output inside a Markdown file:
 
