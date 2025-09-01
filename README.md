@@ -405,6 +405,8 @@ Download a JSON representation of your business transactions
             "start_time": "2023-01-01T00:00:40Z",
             "end_time": "2023-01-01T00:00:40.264000Z"
         },
+```
+```
         {
             "dt.entity.service.entity.name": "service-A",
             "trace.id": "t4",
