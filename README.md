@@ -87,7 +87,8 @@ Download a JSON representation of your business transactions
 
 <details>
   <summary>Click to view example JSON file</summary>
-  ```{
+```
+  {
     "records": [
         {
             "dt.entity.service.entity.name": "auth-service",
@@ -720,7 +721,9 @@ Download a JSON representation of your business transactions
             "end_time": "2023-01-01T00:00:50.432000Z"
         }
     ]
-}```
+}
+
+```
 </details>
 
 Place the generated Mermaid output inside a Markdown file:
