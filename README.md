@@ -724,6 +724,7 @@ Download a JSON representation of your business transactions
 }
 
 ```
+```
 </details>
 
 Place the generated Mermaid output inside a Markdown file:
