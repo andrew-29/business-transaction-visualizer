@@ -85,8 +85,6 @@ This string can be used in Markdown or Mermaid-compatible viewers.
 ## Example: Visualizing with Mermaid
 Download a JSON representation of your business transactions
 
-<details>
-  <summary>Click to view example JSON file</summary>
 
 ```json
 {
@@ -100,7 +98,6 @@ Download a JSON representation of your business transactions
       "start_time": "2023-01-01T00:00:10Z",
       "end_time": "2023-01-01T00:00:10.157000Z"
     }
-    ...
   ]
 }
 ```
