@@ -98,6 +98,9 @@ Download a JSON representation of your business transactions
       "start_time": "2023-01-01T00:00:10Z",
       "end_time": "2023-01-01T00:00:10.157000Z"
     }
+
+  ...
+
   ]
 }
 ```
@@ -132,6 +135,8 @@ flowchart TD
 
 
 Render with GitHub, VSCode Mermaid preview, or other Mermaid tools.
+
+![Example Image](example.png)
 
 ---
 
