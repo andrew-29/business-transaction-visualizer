@@ -1,6 +1,6 @@
 # Visualizer
 
-A Python-based tool for transforming trace/span records into hierarchical tree structures and Mermaid.js flowcharts.
+A Python-based tool for transforming Dynatrace trace/span records into hierarchical tree structures and Mermaid.js flowcharts.
 
 ---
 
